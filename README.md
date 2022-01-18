@@ -2,7 +2,13 @@
 
 A jQuery plugin for drag and drop form creation, formBuilder has many options and is translatable.
 
-# npm-start
-npm start written in bash that propagates kill to subprocesses
-
+# npm install & npm-start
 npm install npm-start -g
+
+# L'affichage de la vue 3D au sein du formulaire :
+Méthode 1 :
+<img src="https://adargui.com/3d/exo-formBuilder-m1.jpg">
+
+Méthode 2 :
+<img src="https://adargui.com/3d/exo-formBuilder-m2.jpg">
+
