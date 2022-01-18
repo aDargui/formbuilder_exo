@@ -1,0 +1,13 @@
+canvas{
+    width: 80%!important;
+    height: 444px!important;
+}
+.imagedargui, .image2{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.formbuilder-image2{
+    height: 433px;
+}
